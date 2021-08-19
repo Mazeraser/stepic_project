@@ -1,0 +1,4 @@
+2021/08/18 17:30:21 [emerg] 2784#10968: CreateFile() "C:\Users\danil\Desktop\Учеба\Программирование\Stepic\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/08/18 17:30:56 [emerg] 12864#3540: CreateFile() "C:\Users\danil\Desktop\Учеба\Программирование\Stepic\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/08/18 17:43:20 [emerg] 9548#8756: CreateFile() "C:\Users\danil\Desktop\Учеба\Программирование\Stepic\home\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/08/18 17:43:41 [emerg] 11620#12796: CreateFile() "C:\Users\danil\Desktop\Учеба\Программирование\Stepic\home\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
